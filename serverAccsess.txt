@@ -1,0 +1,13 @@
+ssh nitish@172.30.1.68
+Nitish@3214
+conda create -n myenv python=3.10
+
+conda activate myenv
+
+pip install jupyter notebook
+
+jupyter notebook --no-browser --port=8890
+
+ssh -L 8890:localhost:8890 nitish@172.30.1.68
+
+ssh -L 8890:localhost:8890 nitish@172.30.1.68
