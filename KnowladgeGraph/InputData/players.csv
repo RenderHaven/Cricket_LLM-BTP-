@@ -40,7 +40,7 @@ player_id, player_name                  , team_id
 39, DA Rankin                    ,11
 40, SP Terry                     ,11
 41, JNK Shannon                  ,11
-42, KJ O'Brien                   ,11
+42, KJ OBrien                   ,11
 43, GJ Thompson                  ,11
 44, AR McBrine                   ,11
 45, L Tucker                     ,11
@@ -220,7 +220,7 @@ player_id, player_name                  , team_id
 219, W Barresi                    ,62
 220, RE van der Merwe             ,62
 221, PW Borren                    ,62
-222, MP O'Dowd                    ,62
+222, MP ODowd                    ,62
 223, Ahsan Malik                  ,62
 224, PA van Meekeren              ,62
 225, T van der Gugten             ,62
@@ -812,7 +812,7 @@ player_id, player_name                  , team_id
 811, Waheed Ahmed                 ,19
 812, AJ Staal                     ,62
 813, Zawar Farid                  ,19
-814, DDP D'Silva                  ,19
+814, DDP DSilva                  ,19
 815, Qadeer Ahmed                 ,19
 816, LD Madushanka                ,4
 817, HD Rutherford                ,24
@@ -831,7 +831,7 @@ player_id, player_name                  , team_id
 830, MO Jones                     ,52
 831, DAP Darrell                  ,52
 832, JE Pitcher                   ,52
-833, GH O'Brien                   ,52
+833, GH OBrien                   ,52
 834, RJ Trott                     ,52
 835, TP Allen                     ,17
 836, NK Patel                     ,17
@@ -1155,7 +1155,7 @@ player_id, player_name                  , team_id
 1154, IA De Silva                  ,35
 1155, P Mishra                     ,35
 1156, Bakhtiar Tahiri              ,35
-1157, KC D'Souza                   ,35
+1157, KC DSouza                   ,35
 1158, Asad Ali Rehemtulla          ,35
 1159, D Nikolov                    ,35
 1160, Rohan Bhavesh Patel          ,35
@@ -2453,7 +2453,7 @@ player_id, player_name                  , team_id
 2452, Assad Mehmood                ,38
 2453, Nouman Butt                  ,70
 2454, Chaudhary Akram              ,70
-2455, Jordan O'Brien               ,96
+2455, Jordan OBrien               ,96
 2456, Akhil Arjunan                ,96
 2457, M Kristensen                 ,85
 2458, Choudry Share Ali            ,93
@@ -2910,7 +2910,7 @@ player_id, player_name                  , team_id
 2909, Irfan Khan                   ,80
 2910, Abrar Ahmed                  ,80
 2911, ZGF Foulkes                  ,24
-2912, W O'Rourke                   ,24
+2912, W ORourke                   ,24
 2913, Ahmed Aqeel                  ,63
 2914, U Bhagwan                    ,48
 2915, Parveen Kumar                ,48
@@ -3662,7 +3662,7 @@ player_id, player_name                  , team_id
 3661, PM Siddle                    ,14
 3662, GD Elliott                   ,24
 3663, IG Butler                    ,24
-3664, IE O'Brien                   ,24
+3664, IE OBrien                   ,24
 3665, SM Davies                    ,64
 3666, GJ Batty                     ,64
 3667, A Khan                       ,64
@@ -3693,7 +3693,7 @@ player_id, player_name                  , team_id
 3692, GA Rogers                    ,49
 3693, Saeed Ajmal                  ,80
 3694, JP Bray                      ,11
-3695, NJ O'Brien                   ,11
+3695, NJ OBrien                   ,11
 3696, JF Mooney                    ,11
 3697, DT Johnston                  ,11
 3698, AR Cusack                    ,11
@@ -3751,7 +3751,7 @@ player_id, player_name                  , team_id
 3750, R Vinay Kumar                ,47
 3751, CU Jayasinghe                ,4
 3752, PJ Ingram                    ,24
-3753, SNJ O'Keefe                  ,14
+3753, SNJ OKeefe                  ,14
 3754, BJ Watling                   ,24
 3755, AB Dinda                     ,47
 3756, M Pushpakumara               ,4
@@ -3878,7 +3878,7 @@ player_id, player_name                  , team_id
 3877, TL Best                      ,28
 3878, Mominul Haque                ,66
 3879, Sohag Gazi                   ,66
-3880, N M'shangwe                  ,82
+3880, N Mshangwe                  ,82
 3881, ST Gabriel                   ,28
 3882, Shamsur Rahman               ,66
 3883, Sajedul Islam                ,66

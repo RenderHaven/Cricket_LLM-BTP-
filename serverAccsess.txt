@@ -10,4 +10,5 @@ jupyter notebook --no-browser --port=8890
 
 ssh -L 8890:localhost:8890 nitish@172.30.1.68
 
-ssh -L 8890:localhost:8890 nitish@172.30.1.68
+ssh -L 7474:localhost:7474 nitish@172.30.1.68
+Nitish@3214
