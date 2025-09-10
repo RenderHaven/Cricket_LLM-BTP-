@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": -198.89998687014213,
-			"y": 1640.1407673418298,
-			"lastActivityTimestamp": 1756816586401,
+			"x": -6690.63095166176,
+			"y": -1556.7167044272533,
+			"lastActivityTimestamp": 0,
 			"meta": {}
 		},
 		{
@@ -431,6 +431,45 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 3116.5111858013433,
+			"y": 2545.9773306701377,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:YtAUpZPGW6ykPNoqvxAyu",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 469.36223224078236,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 2.3894022167101028,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Server Neo4j Setup"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b0S9QP",
+			"typeName": "shape"
+		},
+		{
 			"x": 744.4303012627506,
 			"y": -230.62094178410166,
 			"rotation": 0,
@@ -531,7 +570,7 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 740.9965195094637,
+			"x": 726.5135680016986,
 			"y": 2530.203834934071,
 			"rotation": 0,
 			"isLocked": false,
@@ -737,12 +776,7 @@
 															"content": [
 																{
 																	"type": "text",
-																	"marks": [
-																		{
-																			"type": "highlight"
-																		}
-																	],
-																	"text": "testing local (runing.......)"
+																	"text": "testing local (done)"
 																}
 															]
 														}
@@ -759,7 +793,12 @@
 															"content": [
 																{
 																	"type": "text",
-																	"text": "implimentation on server "
+																	"marks": [
+																		{
+																			"type": "highlight"
+																		}
+																	],
+																	"text": "implimentation on server (running...)"
 																}
 															]
 														}
@@ -869,9 +908,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 6689.007777503034,
-			"y": 1469.9403490683758,
-			"z": 0.10520626310374184,
+			"x": 6690.63095166176,
+			"y": 1556.7167044272533,
+			"z": 0.09207239986590023,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -1164,11 +1203,27 @@
 			"typeName": "binding"
 		},
 		{
+			"meta": {},
+			"id": "binding:k450lDgRuoeMDQkLknZpO",
+			"type": "arrow",
+			"fromId": "shape:8CVdBRX5_NdUTqUR8a5Ql",
+			"toId": "shape:CPpTPiHhsuxVnEek1dNz-",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.009753443669394915,
+					"y": 0.41425835299015173
+				},
+				"snap": "none",
+				"terminal": "end"
+			},
+			"typeName": "binding"
+		},
+		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:asjtIBtwBuWfJNX6zrd1h"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -2118,6 +2173,50 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 2195.7213934712545,
+			"y": 2859.038328683268,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:8CVdBRX5_NdUTqUR8a5Ql",
+			"type": "arrow",
+			"props": {
+				"kind": "arc",
+				"elbowMidPoint": 0.5,
+				"dash": "dashed",
+				"size": "xl",
+				"fill": "none",
+				"color": "black",
+				"labelColor": "black",
+				"bend": 0,
+				"start": {
+					"x": 0,
+					"y": 0
+				},
+				"end": {
+					"x": 431.20937333594566,
+					"y": 252.93561932849525
+				},
+				"arrowheadStart": "none",
+				"arrowheadEnd": "arrow",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				},
+				"labelPosition": 0.5,
+				"font": "draw",
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "b0RfEL",
+			"typeName": "shape"
+		},
+		{
 			"x": 1578.1699667507137,
 			"y": 342.63855022012194,
 			"rotation": 0,
@@ -2206,6 +2305,61 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 2629.4507957847145,
+			"y": 2513.1289773276562,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:CPpTPiHhsuxVnEek1dNz-",
+			"type": "geo",
+			"props": {
+				"w": 1928.7579672454222,
+				"h": 1368.6610531828778,
+				"geo": "rectangle",
+				"dash": "dashed",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "black",
+				"labelColor": "black",
+				"fill": "none",
+				"size": "xl",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b0R8nu",
+			"typeName": "shape"
+		},
+		{
+			"meta": {},
+			"id": "binding:xnyUK0pwluOgG-SHGmXJ8",
+			"type": "arrow",
+			"fromId": "shape:8CVdBRX5_NdUTqUR8a5Ql",
+			"toId": "shape:5beJEe4tQjEI10N07OC79",
+			"props": {
+				"isPrecise": true,
+				"isExact": false,
+				"normalizedAnchor": {
+					"x": 0.618931041949734,
+					"y": 0.7573714427249302
+				},
+				"snap": "none",
+				"terminal": "start"
+			},
+			"typeName": "binding"
+		},
+		{
 			"meta": {},
 			"id": "binding:Xq7hAtHcYoZY1mebccsYS",
 			"type": "arrow",
@@ -2222,6 +2376,168 @@
 				"terminal": "start"
 			},
 			"typeName": "binding"
+		},
+		{
+			"x": 2713.8744461001324,
+			"y": 2735.401467239734,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vEhLaZ3NpE7OulNdrsFQ8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "xl",
+				"w": 1318.2878549879642,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Neo4j CLI Installation"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t1. install neo4j server"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t2. port binding"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t3. java env setup"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Graph Creation"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t1. define relationship model"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t2. import csv "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\t3. "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "highlight"
+										}
+									],
+									"text": "note- formate csv in disired formate for local"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Python+Neo4j"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "b0T9Cc",
+			"typeName": "shape"
 		},
 		{
 			"x": 593.2805587151352,
@@ -2933,8 +3249,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1274.4000244140625,
-				"h": 749.6000366210938
+				"w": 1318.4000244140625,
+				"h": 672
 			},
 			"insets": [
 				false,
@@ -2951,7 +3267,7 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.25,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
+			"isHoveringCanvas": null,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,

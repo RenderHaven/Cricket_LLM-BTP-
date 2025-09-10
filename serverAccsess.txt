@@ -12,3 +12,9 @@ ssh -L 8890:localhost:8890 nitish@172.30.1.68
 
 ssh -L 7474:localhost:7474 nitish@172.30.1.68
 Nitish@3214
+ssh -L 7687:localhost:7687 nitish@172.30.1.68
+cd vikram/neo4j-community-5.25.1/import
+
+
+neo4j 
+neo4j12345678
